@@ -3,15 +3,15 @@
 
 name = "Basic"
 license = "MIT"
-licenselink = "https://github.com/siegerts/hugo-theme-basic/blob/master/LICENSE"
+licenselink = "https://github.com/r0xsh/hugo-theme-basic/blob/master/LICENSE"
 description = "Basic blog theme styled with minimal tachyons"
-homepage = "https://github.com/siegerts/hugo-theme-basic"
+homepage = "https://github.com/r0xsh/hugo-theme-basic"
 tags = ["minimal", "tachyons", "blog", "responsive", "syntax highlighting", "google analytics", "plain", "clean", "starter", "rstats", "blogdown"]
 features = ["blog", "blog series", "syntax highlighting", "google analytics", "tachyons"]
-min_version = "0.41"
+min_version = "0.60"
 
 [author]
-  name = "Stephen Siegert"
-  homepage = "https://xiegerts.com"
+  name = "Antoine Bagnaud"
+  homepage = "https://antoinebagnaud.me"
 
 
